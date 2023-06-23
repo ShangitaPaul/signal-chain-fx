@@ -1,5 +1,6 @@
 # signal-chain-fx
 SignalChain FX - Guitar Effects Pedal Emulator 
+
 **THIS APP IS STILL UNDER DEVELOPMENT**
 
 SignalChain FX is an app that provides seamless integration of audio signal processing and frontend development to simulate the behavior of effects pedals in a virtual environment; enabling musicians to craft their desired signal chain on an interactive pedalboard.
