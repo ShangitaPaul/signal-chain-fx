@@ -7,6 +7,8 @@ SignalChain FX is an app that provides seamless integration of audio signal proc
 
 The core functionality of the app lies in simulating the behavior of guitar effects pedals from popular brands, as well as from select lesser-known, boutique brands. To achieve this, a digital signal processing (DSP) approach would be employed. Programming languages like C++ or Python would be suitable for implementing the audio signal processing algorithms. Libraries such as JUCE (C++) or Librosa (Python) could be utilized to handle the audio processing tasks efficiently.
 
+Boutique pedal manufactureres have the option of submitting their pedal designs for review to be included in the database.
+
 Technical Description:
 
 1. Frontend Development:
