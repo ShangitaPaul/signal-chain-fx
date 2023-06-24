@@ -26,4 +26,6 @@ Throughout the development process, comprehensive testing should be conducted to
 5. Version Control and Collaboration:
 Git would be used as a version control system to enable effective collaboration among the development team. Hosting the code repository on platforms like GitHub or GitLab allows for seamless code management, versioning, and coordination of feature branches, ensuring a smooth development workflow.
 
+6. API development and Database management
+
 Overall, the Guitar Effects Pedal Emulator app would involve a combination of programming languages such as C++, Python, and JavaScript. Audio signal processing algorithms would be implemented using C++ or Python, while the frontend would be developed using HTML, CSS, and JavaScript, potentially with the help of frontend frameworks. Audio integration would be achieved using the Web Audio API. Depending on project requirements, a backend using frameworks like Flask, Express.js, or Django could be included. Testing and version control processes would ensure the app's quality and facilitate collaboration among the development team.
