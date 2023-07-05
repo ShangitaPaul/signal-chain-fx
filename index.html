@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Guitar Effects Pedal Emulator</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <h1>Guitar Effects Pedal Emulator</h1>
+
+  <!-- Interactive Pedalboard -->
+  <div id="pedalboard">
+    <button onclick="addPedal('distortion')">Add Distortion</button>
+    <button onclick="addPedal('delay')">Add Delay</button>
+    <button onclick="addPedal('reverb')">Add Reverb</button>
+    <!-- Add more pedal buttons as needed -->
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/tone@14.8.14/build/Tone.js"></script>
+  <script src="script.js"></script>
+</body>
+
+</html>
