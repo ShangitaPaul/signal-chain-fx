@@ -1,7 +1,11 @@
 # Sample Code
-The code in this repository is a sample/preview of the work I will be expanding upon (described below). The Tone.js library is included directly from the CDN provided by jsDelivr (https://www.jsdelivr.com/). This way, a separate download of the library is not nessesary. 
+The code in this repository is sample code for a guitar effects pedal emmulator. See full description of application below. For the purposes of this sample, the Tone.js library is included directly from the CDN provided by jsDelivr (https://www.jsdelivr.com/). Thus, a separate download of the library is not nessesary. When opening the index.html file in a browser, the browser will automatically fetch the Tone.js library from the CDN and execute the code in the "script.js" file.
 
-When opening the index.html file in a browser, the browser will automatically fetch the Tone.js library from the CDN and execute the JavaScript code in the "script.js" file.
+**NOTE:** 
+The real app will allow simulate the behavior of popular and boutique effects pedals currently out in the market. A database of popular and select boutique effects pedals will be developed and later implemented. Subsequently, users will be able to craft their desired signal chain on an interactive virtual pedalboard; fullfilling a "try before you buy" purpose. 
+
+Please read full technical description below. 
+
 
 # signal-chain-fx
 SignalChain FX - Guitar Effects Pedal Emulator 
