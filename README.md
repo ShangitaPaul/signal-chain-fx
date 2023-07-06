@@ -1,3 +1,8 @@
+# Sample Code
+The code in this repository is a sample/preview of the work I will be expanding upon (described below). The Tone.js library is included directly from the CDN provided by jsDelivr (https://www.jsdelivr.com/). This way, a separate download of the library is not nessesary. 
+
+When opening the index.html file in a browser, the browser will automatically fetch the Tone.js library from the CDN and execute the JavaScript code in the "script.js" file.
+
 # signal-chain-fx
 SignalChain FX - Guitar Effects Pedal Emulator 
 
